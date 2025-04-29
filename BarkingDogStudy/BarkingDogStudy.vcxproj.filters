@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\0x00">
+      <UniqueIdentifier>{e9409d6e-4158-412d-8406-75481e3e7b08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0x01">
+      <UniqueIdentifier>{ff38fb73-0d94-40f1-9134-acbbe5d2d54f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0x02">
+      <UniqueIdentifier>{091b9407-2a7f-428f-88c8-e5eb1b0dcf78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0x02\기본문제">
+      <UniqueIdentifier>{cf7dbdab-185a-42a0-8b88-3ccb1857c1ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0x03">
+      <UniqueIdentifier>{bba83f1a-cf09-431e-baf3-a60b337b6dde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0x01\연습문제">
+      <UniqueIdentifier>{9133780a-d57e-48ba-bc0a-4e4e198df5e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0x03\연습문제">
+      <UniqueIdentifier>{1ad871d5-3758-485c-8a2a-5ca31bd0829c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0x03\기본문제">
+      <UniqueIdentifier>{d826fd89-6b4d-4e91-9670-d560b309bcc3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BOJ_10171.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_1000.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_10871.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_10869.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2557.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2752.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_9498.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2753.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2480.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2490.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2576.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2587.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2309.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_10093.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_1267.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_10804.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_15552.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2438.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2439.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2440.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2441.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2442.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2443.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2444.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2445.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2446.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2562.cpp">
+      <Filter>소스 파일\0x02\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="0x00_test.cpp">
+      <Filter>소스 파일\0x01\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="0x00_vector.cpp">
+      <Filter>소스 파일\0x03\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="0x03_test0.cpp">
+      <Filter>소스 파일\0x03\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="0x03_test1_BOJ_10808.cpp">
+      <Filter>소스 파일\0x03\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="0x03_test2.cpp">
+      <Filter>소스 파일\0x03\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_2577.cpp">
+      <Filter>소스 파일\0x03\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_1475.cpp">
+      <Filter>소스 파일\0x03\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="[R] BOJ_3273.cpp">
+      <Filter>소스 파일\0x03\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_10807.cpp">
+      <Filter>소스 파일\0x03\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_13300.cpp">
+      <Filter>소스 파일\0x03\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_11328.cpp">
+      <Filter>소스 파일\0x03\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_1919.cpp">
+      <Filter>소스 파일\0x03\기본문제</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
