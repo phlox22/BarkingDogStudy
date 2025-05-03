@@ -46,6 +46,18 @@
     <Filter Include="소스 파일\0x04\연습문제">
       <UniqueIdentifier>{66f3d20a-f741-4b54-9889-9b471deb2495}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\0x05">
+      <UniqueIdentifier>{055d7875-c117-4e91-b024-c85ccd9eb48c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0x05\연습문제">
+      <UniqueIdentifier>{e03c5717-5b2b-4978-b44f-2196179be086}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0x05\기본문제">
+      <UniqueIdentifier>{6f799436-faab-4ce8-8e3f-1120fd31329b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\0x05\응용문제">
+      <UniqueIdentifier>{f4ea9d25-ae49-43a2-bff7-356869146a6b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BOJ_10171.cpp">
@@ -165,10 +177,10 @@
     <ClCompile Include="BOJ_1919.cpp">
       <Filter>소스 파일\0x03\기본문제</Filter>
     </ClCompile>
-    <ClCompile Include="0x01.cpp">
+    <ClCompile Include="4_0x01.cpp">
       <Filter>소스 파일\0x04\연습문제</Filter>
     </ClCompile>
-    <ClCompile Include="0x02.cpp">
+    <ClCompile Include="4_0x02.cpp">
       <Filter>소스 파일\0x04\연습문제</Filter>
     </ClCompile>
     <ClCompile Include="[R] BOJ_1406.cpp">
@@ -179,6 +191,45 @@
     </ClCompile>
     <ClCompile Include="BOJ_1158.cpp">
       <Filter>소스 파일\0x04\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="[답] 1158_1.cpp">
+      <Filter>소스 파일\0x04\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="[답] 1158.cpp">
+      <Filter>소스 파일\0x04\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="[답] 1158_2.cpp">
+      <Filter>소스 파일\0x04\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="5_0x01.cpp">
+      <Filter>소스 파일\0x05\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="5_0x02.cpp">
+      <Filter>소스 파일\0x05\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_10828.cpp">
+      <Filter>소스 파일\0x05\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_10773.cpp">
+      <Filter>소스 파일\0x05\기본문제</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ_1874.cpp">
+      <Filter>소스 파일\0x05\응용문제</Filter>
+    </ClCompile>
+    <ClCompile Include="[미] BOJ_2493.cpp">
+      <Filter>소스 파일\0x05\응용문제</Filter>
+    </ClCompile>
+    <ClCompile Include="[미] BOJ_6198.cpp">
+      <Filter>소스 파일\0x05\응용문제</Filter>
+    </ClCompile>
+    <ClCompile Include="[미] BOJ_17298.cpp">
+      <Filter>소스 파일\0x05\응용문제</Filter>
+    </ClCompile>
+    <ClCompile Include="[미] BOJ_3015.cpp">
+      <Filter>소스 파일\0x05\응용문제</Filter>
+    </ClCompile>
+    <ClCompile Include="[미] BOJ_6549.cpp">
+      <Filter>소스 파일\0x05\응용문제</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
